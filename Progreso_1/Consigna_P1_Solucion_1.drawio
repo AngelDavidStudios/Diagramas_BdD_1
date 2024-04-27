@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T20:08:56.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="03KRu8AYAwXeXCfjYbly" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T20:10:28.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xiaOrG-rHCb90o3b22CI" version="24.2.8" type="github">
   <diagram name="Página-1" id="Mf1vdCVvzEqVVEpjBD80">
     <mxGraphModel dx="3621" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1842,6 +1842,42 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1780" y="820" as="sourcePoint" />
             <mxPoint x="1940" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-514" value="ExcursiónID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-515" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-516" value="Fin" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-517" value="Capacidad" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="551" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-518" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-116" target="Goxi84qDYm24SVxgxPYc-517">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2240" y="580" as="sourcePoint" />
+            <mxPoint x="2370" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-519" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-116" target="Goxi84qDYm24SVxgxPYc-516">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="450" as="sourcePoint" />
+            <mxPoint x="2480" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-520" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-116" target="Goxi84qDYm24SVxgxPYc-515">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2350" y="420" as="sourcePoint" />
+            <mxPoint x="2510" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-521" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-116" target="Goxi84qDYm24SVxgxPYc-514">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2280" y="350" as="sourcePoint" />
+            <mxPoint x="2440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
