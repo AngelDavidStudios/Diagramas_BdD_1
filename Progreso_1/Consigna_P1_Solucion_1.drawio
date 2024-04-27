@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T20:15:33.166Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7B5ZrL0Mp0YR_1wEl-VG" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T20:18:02.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ik1fpIi5nz2MX1-okpEV" version="24.2.8" type="github">
   <diagram name="Página-1" id="Mf1vdCVvzEqVVEpjBD80">
     <mxGraphModel dx="3621" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1977,6 +1977,42 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2440" y="1300" as="sourcePoint" />
             <mxPoint x="2600" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-548" value="ReporteID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="979.5" y="915" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-549" value="Hora" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1049.5" y="965" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-550" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="980" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-551" value="Decripción" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="915" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-552" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-548" target="Goxi84qDYm24SVxgxPYc-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="910" as="sourcePoint" />
+            <mxPoint x="1270" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-553" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-549" target="Goxi84qDYm24SVxgxPYc-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="920" as="sourcePoint" />
+            <mxPoint x="1310" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-554" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-550" target="Goxi84qDYm24SVxgxPYc-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="940" as="sourcePoint" />
+            <mxPoint x="1320" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Goxi84qDYm24SVxgxPYc-555" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-61" target="Goxi84qDYm24SVxgxPYc-551">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="890" as="sourcePoint" />
+            <mxPoint x="1440" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
