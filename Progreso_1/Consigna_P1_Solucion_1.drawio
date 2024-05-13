@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T14:52:03.440Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oepWjxc059Th_wVNsvlp" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T21:54:36.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IoCG0GIhIECB94Acbnuo" version="24.3.1" type="github">
   <diagram name="Página-1" id="Mf1vdCVvzEqVVEpjBD80">
     <mxGraphModel dx="3507" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1154,13 +1154,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-341" value="BoletoID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="280" y="559.99" width="100" height="40" as="geometry" />
+          <mxGeometry x="280" y="540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-342" value="Is_Paquete" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="390" y="600" width="100" height="40" as="geometry" />
+          <mxGeometry x="390" y="591" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-343" value="Is_Extension" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="500" y="559.99" width="100" height="40" as="geometry" />
+          <mxGeometry x="510" y="529.99" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-344" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="Goxi84qDYm24SVxgxPYc-341" target="Goxi84qDYm24SVxgxPYc-89" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2057,7 +2057,7 @@
             <mxPoint x="2170" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u9E6esY2pbOUHV3IvOrg-3" value="islas Santa Cruz, San Cristóbal, Isabela y Floreana" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="u9E6esY2pbOUHV3IvOrg-3" value="Santa Cruz,&amp;nbsp;&lt;div&gt;San Cristóbal,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Isabela&amp;nbsp;&lt;/div&gt;&lt;div&gt;y Floreana&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2510" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u9E6esY2pbOUHV3IvOrg-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="u9E6esY2pbOUHV3IvOrg-1" target="u9E6esY2pbOUHV3IvOrg-3">
