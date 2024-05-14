@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T00:46:03.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3-T4dJzpBVy5pZYxRjrr" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T00:58:40.929Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8NAAS5wd4ouBRtsTdZxn" version="24.4.0" type="github">
   <diagram name="Página-1" id="Mf1vdCVvzEqVVEpjBD80">
-    <mxGraphModel dx="3507" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6585" dy="3769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1920,10 +1920,10 @@
           <mxGeometry x="2120" y="1270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-538" value="Tipo" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2430" y="1210" width="100" height="40" as="geometry" />
+          <mxGeometry x="2381" y="1239" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-540" value="Is_Available" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2430" y="1119" width="100" height="40" as="geometry" />
+          <mxGeometry x="2405" y="1119" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-541" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="Goxi84qDYm24SVxgxPYc-531" target="Goxi84qDYm24SVxgxPYc-138" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2058,7 +2058,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u9E6esY2pbOUHV3IvOrg-5" value="SPA o Gym" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-848" y="725" width="90" height="60" as="geometry" />
+          <mxGeometry x="-848" y="730" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u9E6esY2pbOUHV3IvOrg-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="Goxi84qDYm24SVxgxPYc-331" target="u9E6esY2pbOUHV3IvOrg-5" edge="1">
           <mxGeometry relative="1" as="geometry">
