@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T00:40:25.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YC4ZDfn57TXI3L5QHM_g" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T00:46:03.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3-T4dJzpBVy5pZYxRjrr" version="24.4.0" type="github">
   <diagram name="Página-1" id="Mf1vdCVvzEqVVEpjBD80">
     <mxGraphModel dx="3507" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1370,13 +1370,13 @@
           <mxGeometry x="-190" y="1550" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-405" value="Cantidad_Actual" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1620" width="100" height="40" as="geometry" />
+          <mxGeometry x="30" y="1610" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-406" value="Cantidad_Mín" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1560" width="100" height="40" as="geometry" />
+          <mxGeometry x="60" y="1550" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-407" value="Cantidad_Máx" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="72.19" y="1510" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="1490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-408" value="Is_Agotado" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-150" y="1620" width="100" height="40" as="geometry" />
@@ -1469,10 +1469,10 @@
           <mxGeometry x="-650" y="1340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-429" value="Date_Entrega" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-613" y="1450" width="100" height="40" as="geometry" />
+          <mxGeometry x="-623" y="1465" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-430" value="Hour_Entrega" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="1390" width="100" height="40" as="geometry" />
+          <mxGeometry x="-670" y="1405" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Goxi84qDYm24SVxgxPYc-431" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="Goxi84qDYm24SVxgxPYc-230" target="Goxi84qDYm24SVxgxPYc-424" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2136,6 +2136,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-130" y="1310" as="sourcePoint" />
             <mxPoint x="30" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AU-Z_Q-skFr4mDgTeHLP-5" value="Max 10 por guía." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2495" y="595" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AU-Z_Q-skFr4mDgTeHLP-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Goxi84qDYm24SVxgxPYc-517" target="AU-Z_Q-skFr4mDgTeHLP-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="630" as="sourcePoint" />
+            <mxPoint x="2480" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2280" y="635" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
