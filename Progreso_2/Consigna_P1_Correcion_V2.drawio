@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T23:02:04.696Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ad3be-Br6RImcxwCyEV-" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T23:03:17.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="SUrdgOvfxwsq3CzYIX73" version="24.4.14" type="github">
   <diagram name="Página-1" id="KHGDxLByg3vS5e9Op4B_">
     <mxGraphModel dx="2920" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -340,7 +340,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IWDR3bXAUsiOQZhs0rEP-115" value="Número de porciones que se pueden hacer con la receta" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-92" y="1159" width="140" height="90" as="geometry" />
+          <mxGeometry x="-92" y="1159" width="132" height="111" as="geometry" />
         </mxCell>
         <mxCell id="IWDR3bXAUsiOQZhs0rEP-116" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="IWDR3bXAUsiOQZhs0rEP-109" target="IWDR3bXAUsiOQZhs0rEP-115" edge="1">
           <mxGeometry relative="1" as="geometry">
