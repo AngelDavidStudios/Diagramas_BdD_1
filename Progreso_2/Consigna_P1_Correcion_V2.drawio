@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T23:01:02.168Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5-vqpCJ1Jq83PoEP9L9X" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T23:02:04.696Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ad3be-Br6RImcxwCyEV-" version="24.4.14" type="github">
   <diagram name="Página-1" id="KHGDxLByg3vS5e9Op4B_">
     <mxGraphModel dx="2920" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1297,6 +1297,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-210" y="60" as="sourcePoint" />
             <mxPoint x="-50" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3pDtTtvy8vr-cXDwEH9-11" value="SPA,&lt;div&gt;Gym,&lt;/div&gt;&lt;div&gt;Escursión&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-946.25" y="40" width="86.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3pDtTtvy8vr-cXDwEH9-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="A3pDtTtvy8vr-cXDwEH9-11" target="yxfM-ykQj01svaQW9dFQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="250" as="sourcePoint" />
+            <mxPoint x="-680" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
