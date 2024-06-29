@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T16:31:10.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XC0jOrZ_sQnF1FZVznVa" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T17:27:51.754Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zohkASOoRfN1EfaGk8vJ" version="24.6.2" type="github">
   <diagram name="Página-1" id="KHGDxLByg3vS5e9Op4B_">
     <mxGraphModel dx="2680" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -601,7 +601,7 @@
         <mxCell id="5qbtE9Bsrnd5UANm0Y_m-13" value="1 : M" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-243" y="670" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5qbtE9Bsrnd5UANm0Y_m-14" value="1 : M" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="5qbtE9Bsrnd5UANm0Y_m-14" value="1 : 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-463" y="670" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5qbtE9Bsrnd5UANm0Y_m-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="5qbtE9Bsrnd5UANm0Y_m-6" target="0nypvXMljxwZ6imSbTbF-2" edge="1">
@@ -659,7 +659,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5qbtE9Bsrnd5UANm0Y_m-30" value="Tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="975" width="100" height="50" as="geometry" />
+          <mxGeometry x="1035" y="975" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5qbtE9Bsrnd5UANm0Y_m-33" value="Reabastece" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1020" y="1275" width="100" height="50" as="geometry" />
@@ -704,7 +704,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5qbtE9Bsrnd5UANm0Y_m-66" value="1 : M" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1050" y="945" width="40" height="30" as="geometry" />
+          <mxGeometry x="1065" y="945" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5qbtE9Bsrnd5UANm0Y_m-67" value="0 : M" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1260" y="970" width="40" height="30" as="geometry" />
