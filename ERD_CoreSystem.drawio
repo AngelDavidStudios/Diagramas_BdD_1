@@ -16,9 +16,6 @@
         <mxCell id="shOIpUSCTICnsK9YS_UU-8" value="1 : M" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="380" y="285" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="shOIpUSCTICnsK9YS_UU-14" value="Password" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="640" y="20" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="shOIpUSCTICnsK9YS_UU-43" value="VALIDACION-TEAM" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="640" width="100" height="40" as="geometry" />
         </mxCell>
@@ -99,9 +96,6 @@
         </mxCell>
         <mxCell id="shOIpUSCTICnsK9YS_UU-67" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="30" y="220" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="shOIpUSCTICnsK9YS_UU-68" value="IdUsuario" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="490" y="45" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shOIpUSCTICnsK9YS_UU-69" value="Correo" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="285" width="100" height="40" as="geometry" />
